@@ -1,0 +1,41 @@
+customer_id,customer_name,region,customer_type
+1,Customer_1,Central,Pharmacy
+2,Customer_2,Rift Valley,Hospital
+3,Customer_3,Coast,Pharmacy
+4,Customer_4,Nairobi,Hospital
+5,Customer_5,Nairobi,Hospital
+6,Customer_6,Eastern,Hospital
+7,Customer_7,Eastern,Pharmacy
+8,Customer_8,Central,Hospital
+9,Customer_9,Western,Pharmacy
+10,Customer_10,Central,Pharmacy
+11,Customer_11,Central,Pharmacy
+12,Customer_12,Central,Hospital
+13,Customer_13,Eastern,Hospital
+14,Customer_14,Eastern,Pharmacy
+15,Customer_15,Eastern,Pharmacy
+16,Customer_16,Nairobi,Pharmacy
+17,Customer_17,Western,Hospital
+18,Customer_18,Western,Hospital
+19,Customer_19,Eastern,Pharmacy
+20,Customer_20,Central,Hospital
+21,Customer_21,Central,Hospital
+22,Customer_22,Eastern,Pharmacy
+23,Customer_23,Eastern,Hospital
+24,Customer_24,Coast,Pharmacy
+25,Customer_25,Coast,Hospital
+26,Customer_26,Central,Pharmacy
+27,Customer_27,Western,Hospital
+28,Customer_28,Nairobi,Pharmacy
+29,Customer_29,Rift Valley,Hospital
+30,Customer_30,Nairobi,Hospital
+31,Customer_31,Central,Hospital
+32,Customer_32,Nairobi,Pharmacy
+33,Customer_33,Nairobi,Hospital
+34,Customer_34,Coast,Pharmacy
+35,Customer_35,Central,Hospital
+36,Customer_36,Rift Valley,Pharmacy
+37,Customer_37,Coast,Hospital
+38,Customer_38,Eastern,Pharmacy
+39,Customer_39,Western,Pharmacy
+40,Customer_40,Western,Pharmacy
